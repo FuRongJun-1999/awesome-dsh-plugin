@@ -140,6 +140,7 @@ dsh plugin --profile web add dshmarket
 - [ICCuse/dsh-premise-guard](https://github.com/ICCuse/dsh-premise-guard) - Post-compaction premise-drift guard: injects a one-shot notice when a compaction summary drops a critical literal anchor.
 - [freehul/sgme](https://github.com/freehul/sgme) - ShiGuang Memory Engine (SGME) bridge: multi-agent shared long-term memory via HTTP — L0/L1/L1.5/L2 distillation, scenario-based injection, unified search, and proactive care signals (memory_search / wiki_search / signal_pull / signal_claim / signal_ack), installable as `dsh-sgme`.
 - [Phant0Meow/dsh-memory-meow](https://github.com/Phant0Meow/dsh-memory-meow) - Project-scoped cross-session memory: PROJECT.md snapshot injected into the first user message, a memory_remember tool, and auto-reflection after ReAct tasks; each project keeps its own memory file.
+- [FuRongJun-1999/CommonTrustProtocol](https://github.com/FuRongJun-1999/CommonTrustProtocol/tree/main/plugins/dsh-memory) - Lingshu (灵枢) brain for dsh: cross-session long-term memory with a knowledge flywheel, self-cognition, recursive reflection, and an importance-gated long-term memory gate (info-gap/trust/second-order change/mention); auto memory hooks; charter-governed (public, auditable, designee-final). Install: `dsh plugin --profile web add @furongjun1999/dsh-memory`
 
 
 ### Tools & Capabilities
